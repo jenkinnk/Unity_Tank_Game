@@ -1,0 +1,11 @@
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\obj\Debug\UnityVS.P_2_Jenkins_Nicholas.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nicholas\Desktop\ECE 407 - Game Design\P_2_Jenkins_Nicholas\obj\Debug\Assembly-CSharp-firstpass.pdb
